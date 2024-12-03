@@ -1,7 +1,7 @@
 function findPerimeter(length, width) {
-    return (length + width) * 2;
+    console.log((length + width) * 2);
 }
 
-console.log(findPerimeter(6, 7));
-console.log(findPerimeter(20, 10));
-console.log(findPerimeter(2, 9));
+findPerimeter(6, 7);
+findPerimeter(20, 10);
+findPerimeter(2, 9);
