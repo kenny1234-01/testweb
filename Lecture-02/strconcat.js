@@ -8,7 +8,7 @@ console.log(str1 + "Big" + str2);
 
 console.log("\n******** Addind Spacing********\n");
 //Addind Spacing
-str = "Hello";
+str1 = "Hello ";
 
 console.log(str1 + str2);
-consolr.log(str1 + "Big" + str2);
+console.log(str1 + "Big " + str2);
